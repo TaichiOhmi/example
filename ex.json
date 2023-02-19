@@ -1,5 +1,35 @@
 {
   "RealMadrid": {
-
+    "GK": {
+      "1": "Thibaut Courtois",
+      "13": "Andriy Lunin"
+    },
+    "DF": {
+      "2": "Daniel Carvajal",
+      "3":"Éder Militão",
+      "4": "David Alaba",
+      "5": "Jesús Vallejo",
+      "6": "Nacho Fernández",
+      "16": "Álvaro Odriozola",
+      "17": "Lucas Vázquez",
+      "22": "Antonio Rüdiger",
+      "23": "Ferland Mendy"
+    },
+    "MF": {
+      "8": "Toni Kroos",
+      "10": "Luka Modric",
+      "12": "Eduardo Camavinga",
+      "15": "Federico Valverde",
+      "18": "Aurélien Tchouameni",
+      "19": "Dani Ceballos"
+    },
+    "FW": {
+      "7": "Eden Hazard",
+      "9": "Karim Benzema",
+      "11": "Marco Asensio",
+      "20": "Vinicius Junior",
+      "21": "Rodrygo",
+      "24": "Mariano Díaz"
+    }
   }
 }
